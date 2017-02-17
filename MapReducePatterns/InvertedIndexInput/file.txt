@@ -1,0 +1,8 @@
+http://wikipedia.org/wiki/enterprice_service_bus 101
+http://wikipedia.org/wiki/enterprice_service_bus 15
+http://wikipedia.org/wiki/enterprice_service_bus 11
+http://wikipedia.org/wiki/datalake 102
+http://wikipedia.org/wiki/datalake 104
+http://wikipedia.org/wiki/datascience 109
+http://wikipedia.org/wiki/datascience 105
+
